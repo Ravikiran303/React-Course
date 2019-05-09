@@ -1,0 +1,23 @@
+{
+    "streams": [
+        {
+            "title":"unexpected Behaviour",
+            "description":"Didn't expect that..!",
+            "userId":"111113427830310115815",
+            "id":1
+        },
+        {
+            "title":"I Created this Stream",
+            "description":"this was made by me",
+            "userId":"111113427830310115815",
+            "id":2
+        },
+        {
+            "title":"Programatic navigation",
+            "description":"You should not see this",
+            "userId":"111113427830310115815",
+            "id":3
+        }
+
+    ]
+}
